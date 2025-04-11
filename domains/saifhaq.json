@@ -1,0 +1,10 @@
+{
+  "description": "Personal Websitev",
+  "owner": {
+    "username": "saifhaq",
+    "email": "its.saifhaq@gmail.com"
+  },
+  "record": {
+    "CNAME": "saifulhaq.com"
+  },
+}
